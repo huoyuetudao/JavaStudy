@@ -1,3 +1,5 @@
+package designPatterns;
+
 /**
  * 描述:线程安全单例
  *
